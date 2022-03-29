@@ -1,0 +1,61 @@
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 20px;
+    background-image: url(imagenes/fondo.png);
+    
+}
+.h1-cabecera{
+    color: #f44336;
+    text-align: center;
+    border: dashed 4px #f44336;
+    background-color: white 5px;
+}
+nav ul{
+    text-align: center;
+    list-style: none;
+}
+nav li{
+    display: inline-block;
+    margin: 15px;
+    padding: 10px;
+    color: white;
+    background-color: #ff9800;
+    border: solid 2px #f44336;
+}
+.art-par{
+    text-align: right;
+}
+.art-par-h2{
+    background-color: #ffc107;
+    color: white;
+    padding: 5px;
+}
+.art-imp-h2{
+    background-color: #f44336;
+    color: white;
+    padding: 5px;
+}
+p{
+    font-size: 20px;
+    font-weight: bold;
+}
+aside ul{
+    list-style: square;
+    font-style: italic;
+}
+#anuncio-1{
+    font-size: 24px;
+    color:blue;
+}
+#anuncio-2{
+    font-size: 20px;
+    color: red;
+}
+#anuncio-3{
+    color:  green;
+}
+#h1-pie-de-pagina{
+    text-align: center;
+    text-decoration: overline;
+    font-size: 20px;
+}
